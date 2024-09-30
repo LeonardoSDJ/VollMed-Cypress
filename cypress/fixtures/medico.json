@@ -1,0 +1,32 @@
+{
+  "novoMedico": {
+    "nome": "Dr. Maria Santos",
+    "email": "maria.santos@clinica.com",
+    "telefone": "(11) 98765-4321",
+    "crm": "123456",
+    "especialidade": "ORTOPEDIA",
+    "endereco": {
+      "logradouro": "Avenida Paulista",
+      "bairro": "Bela Vista",
+      "cep": "01311-000",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "complemento": "Sala 1001",
+      "numero": "1000"
+    }
+  },
+  "medicoAtualizado": {
+    "id": 1,
+    "nome": "Dr. Maria Santos Atualizado",
+    "telefone": "(11) 98765-4322",
+    "endereco": {
+      "logradouro": "Avenida Paulista",
+      "bairro": "Bela Vista",
+      "cep": "01311-000",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "complemento": "Sala 1002",
+      "numero": "1000"
+    }
+  }
+}

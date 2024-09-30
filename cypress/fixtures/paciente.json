@@ -1,0 +1,31 @@
+{
+  "novoPaciente": {
+    "nome": "João Silva",
+    "email": "joao.silva@email.com",
+    "telefone": "(11) 98765-4321",
+    "cpf": "123.456.789-00",
+    "endereco": {
+      "logradouro": "Rua das Flores",
+      "bairro": "Jardim Primavera",
+      "cep": "12345-678",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "complemento": "Apto 101",
+      "numero": "123"
+    }
+  },
+  "pacienteAtualizado": {
+    "id": 1,
+    "nome": "João Silva Atualizado",
+    "telefone": "(11) 98765-4322",
+    "endereco": {
+      "logradouro": "Rua das Flores",
+      "bairro": "Jardim Primavera",
+      "cep": "12345-678",
+      "cidade": "São Paulo",
+      "uf": "SP",
+      "complemento": "Apto 102",
+      "numero": "123"
+    }
+  }
+}

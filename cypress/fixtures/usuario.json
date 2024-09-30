@@ -1,0 +1,10 @@
+{
+  "login": {
+    "usuario": "usuario@exemplo.com",
+    "senha": "senha123"
+  },
+  "novoUsuario": {
+    "login": "novo.usuario@exemplo.com",
+    "senha": "senha123"
+  }
+}
